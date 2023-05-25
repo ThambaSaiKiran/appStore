@@ -1,0 +1,14 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.tab {
+  color: #7b8794;
+}
+.activeTab {
+  color: #2563eb;
+}
+button {
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  background-color: transparent;
+}

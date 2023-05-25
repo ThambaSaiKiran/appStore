@@ -1,0 +1,22 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(to Bottom, #fff1eb, #ace0f9);
+  height: 100vh;
+  padding: 30%;
+  text-align: center;
+}
+.bg1 {
+  background-color: transparent;
+}
+.tabCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style-type: none;
+}
+.appCont {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
